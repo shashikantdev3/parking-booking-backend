@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README.md file for the parking-booking-backend repository:
-
 # Parking Booking Backend
 
 The Parking Booking Backend repository contains the backend codebase for the Parking Booking website, which handles server-side logic, database operations, and API endpoints for the parking booking system.
